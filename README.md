@@ -1,3 +1,3 @@
 # HimaCatalog
 
-This is hima Catalog database untile 2020
+This is hima Catalog database until 2020
